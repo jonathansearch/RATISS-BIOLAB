@@ -107,7 +107,7 @@ error below 5% despite the low-cost sensor.
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/samajonathan9-source/ratiss-biolab.git
+git clone https://github.com/jonathansearch/RATISS-BIOLAB.git
 cd ratiss-biolab
 pip install numpy matplotlib pytest
 
